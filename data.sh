@@ -2,7 +2,7 @@
 
 curl -s https://raw.githubusercontent.com/zrhraJETTOKOSUTA/bash-nobi.sh/main/bash%20logo.sh | bash
 echo "Join the Airdrop Nobi Telegram channel: https://t.me/airdropnobi"
-sleep 6
+sleep 5
 
 # Install NVM (Node Version Manager)
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
